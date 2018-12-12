@@ -1,7 +1,3 @@
-clear
-
-Remove-Variable * -ErrorAction SilentlyContinue
-
 $domains = ("domain1.com","domain2.com","...")
 $groups = ("group1","group2","...")
 $nested_symbol = "∟"
